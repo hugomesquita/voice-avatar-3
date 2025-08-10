@@ -135,10 +135,6 @@ Para este projeto, sugerimos estes nomes de branch:
 | Safari    | ⚠️ Limitado    | ✅       | 🟡 Bom   |
 | Edge      | ✅ Completo    | ✅       | 🟢 Ótimo |
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 👨‍💻 Autor
 
 Criado com ❤️ para demonstrar as possibilidades do Three.js com Web Speech API.
