@@ -142,13 +142,3 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ## 👨‍💻 Autor
 
 Criado com ❤️ para demonstrar as possibilidades do Three.js com Web Speech API.
-
----
-
-### 🎯 Branch Recomendada
-
-Para este projeto, recomendamos o nome da branch principal:
-
-**`talking-3d-avatar`** ou **`voice-avatar-3d`**
-
-Estes nomes são descritivos e facilitam a identificação do projeto!
